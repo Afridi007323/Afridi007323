@@ -3,7 +3,7 @@
 ### Full Stack Developer
 - 🌱 Learning: Docker, Jenkins, Kubernetes
 - 💼 Open to Work - Freelance / Full-time
-- 🌐 Portfolio: https://afridi007323.github.io/afridi-portfolio-website
+- 🌐 Portfolio: https://afridiportfolio.great-site.net/protofolio_website/home/
 - 📫 Reach me: afridiansari986 on Instagram
 
 ### Tech Stack
